@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Memory</string>
+    <string name="welcome">Let\'s play a game of Memory!</string>
+    <string name="name">Hello! Please tell me who you are!</string>
+    <string name="save">SAVE NAME</string>
+    <string name="newgame">NEW GAME</string>
+    <string name="settings">Game Settings</string>
+    <string name="size">Board Size</string>
+    <string name="fiveXsix">5x6</string>
+    <string name="fourXfive">4x5</string>
+    <string name="time">Time Limit</string>
+    <string name="halfmin">30 Seconds</string>
+    <string name="onemin">60 Seconds</string>
+    <string name="twomin">120 Seconds</string>
+    <string name="scores">Quickest Finishes</string>
+    <string name="board4x5">Board Size 4x5</string>
+    <string name="board5x6">Board Size 5x6</string>
+
+</resources>
